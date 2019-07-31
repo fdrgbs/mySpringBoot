@@ -50,6 +50,18 @@
 			<artifactId>reactor-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- 限流 -->
+		<!--<dependency>-->
+			<!--<groupId>cn.yueshutong</groupId>-->
+			<!--<artifactId>spring-boot-starter-current-limiting</artifactId>-->
+			<!--<version>0.0.1.RELEASE</version>-->
+		<!--</dependency>-->
+
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.16.10</version>
+		</dependency>
 	</dependencies>
 
 	<build>
